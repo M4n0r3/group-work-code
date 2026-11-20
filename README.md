@@ -8,12 +8,12 @@
 ---
 
 ## Student & Repository Details
-* **Student Name**: `[Enter Student Full Name]`
-* **Registration / Student ID**: `[Enter Student Registration Number]`
+* **Student Name**: `DAVIS MANORE NJOROGE`
+* **Registration / Student ID**: `BSCCS/2025/40635`
 * **Programme**: Bachelor of Business Information Technology / Bachelor of Science in Information Technology
 * **Department**: Department of Information Technology, School of Computing and Informatics
 * **Repository Link**: `[Enter Individual GitHub Repository URL]`
-* **VLMS Submission Date**: `October 2026`
+* **VLMS Submission Date**: `NOVEMBER 2026`
 
 ---
 
